@@ -7,8 +7,8 @@ function calculateArea($length, $width) {
     return $area;
 }
 
-$length = 10;  
-$width = 5;    
+$length = 4;  
+$width = 2;    
 
 $area = calculateArea($length, $width);
 
